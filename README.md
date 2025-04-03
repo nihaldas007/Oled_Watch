@@ -52,9 +52,3 @@ An advanced smartwatch powered by the ESP32 WROOM chip, featuring an OLED displa
 - Gesture-based controls  
 - Fitness tracking  
 
-## 📜 License  
-This project is for educational purposes. Use responsibly!  
-
----
-
-Let me know if you want to tweak anything! 🚀
